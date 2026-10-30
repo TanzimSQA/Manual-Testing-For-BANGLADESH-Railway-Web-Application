@@ -211,9 +211,11 @@ Manual Testing For BANGLADESH Railway Web Application.xlsx
 
 ## 👤 Author & Acknowledgements
 
-- **SQA Engineer**: **Tanzim Rahman**  
-  - 🌐 GitHub: [@TanzimSQA](https://github.com/TanzimSQA)  
-  - 📧 Email: [tanzimsqa@gmail.com](mailto:tanzimsqa@gmail.com)
+- **SQA Engineer**: **Tanzim Rahman (TanzimSQA)**  
+  - 🌐 **Portfolio**: [https://tanzimsqa.github.io/](https://tanzimsqa.github.io/)  
+  - 💼 **LinkedIn**: [https://www.linkedin.com/in/tanzimsqa/](https://www.linkedin.com/in/tanzimsqa/)  
+  - 🐙 **GitHub**: [@TanzimSQA](https://github.com/TanzimSQA)  
+  - 📧 **Email**: [tanzimsqa@gmail.com](mailto:tanzimsqa@gmail.com)
 - **Reviewed By**: **Md Rubel Hossain**  
 - **Test Timeline**: August 26, 2026 – August 28, 2026
 
