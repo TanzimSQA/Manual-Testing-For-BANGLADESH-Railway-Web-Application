@@ -212,7 +212,7 @@ Manual Testing For BANGLADESH Railway Web Application.xlsx
 ## 👤 Author & Official Profiles
 
 - **SQA Engineer**: **Tanzim Rahman (TanzimSQA)**  
-  - 🌐 **Official Portfolio**: [https://tanzimsqa.github.io/](https://tanzimsqa.github.io/)  
+  - 🌐 **Official Portfolio**: [Tanzim Rahman (TanzimSQA) - Software Quality Assurance Engineer Portfolio](https://tanzimsqa.github.io/)  
   - 💼 **LinkedIn**: [https://www.linkedin.com/in/tanzimsqa/](https://www.linkedin.com/in/tanzimsqa/)  
   - 🐙 **GitHub**: [@TanzimSQA](https://github.com/TanzimSQA)  
   - 📘 **Facebook**: [https://www.facebook.com/tanzim.rahman.sqa/](https://www.facebook.com/tanzim.rahman.sqa/)  
@@ -221,7 +221,7 @@ Manual Testing For BANGLADESH Railway Web Application.xlsx
   - 📍 **Location**: Dhaka, Bangladesh  
 
 <sub>
-  <b>Search Keywords:</b> <code>tanzim</code> • <code>tanzim rahman</code> • <code>tanzim rahman sqa</code> • <code>tanzim sqa</code> • <code>tanzimsqa</code>
+  <b>Search & Entity Keywords:</b> <code>tanzim</code> • <code>tanzim sqa</code> • <code>tanzimsqa</code> • <code>tanzim rahman</code> • <code>Tanzim Rahman SQA</code> • <code>SQA Engineer at Koy Jabo</code> • <code>SDET</code> • <code>Manual Testing</code> • <code>Test Documentation</code> • <code>Jira</code> • <code>Koy Jabo</code>
 </sub>
 - **Reviewed By**: **Md Rubel Hossain**  
 - **Test Timeline**: August 26, 2026 – August 28, 2026
