@@ -210,6 +210,13 @@ Manual Testing For BANGLADESH Railway Web Application.xlsx
 
 ---
 
+## 📝 Related Technical Publication on LinkedIn
+
+For comprehensive insights on system integration testing, defect severity triage, and end-to-end quality standards:
+- 📖 **[System Testing in SQA & Quality Architecture](https://www.linkedin.com/posts/tanzimbpl_system-testing-activity-7301053158095818752-eIeS)** *(Ranked on Google Page 1 for Tanzim Rahman SQA testing queries)*
+
+---
+
 ## 👤 Author & Official Profiles
 
 - **SQA Engineer**: **Tanzim Rahman (TanzimSQA)**  
