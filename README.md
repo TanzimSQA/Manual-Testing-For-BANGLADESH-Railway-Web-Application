@@ -4,7 +4,8 @@
 [![Total Test Cases](https://img.shields.io/badge/Total%20Test%20Cases-225-blue?style=for-the-badge&logo=testrail)](#-test-execution-summary--metrics)
 [![Execution Rate](https://img.shields.io/badge/Execution%20Rate-100%25-informational?style=for-the-badge)](#-test-execution-summary--metrics)
 [![Target Platform](https://img.shields.io/badge/Target-eticket.railway.gov.bd-orange?style=for-the-badge&logo=googlechrome)](https://eticket.railway.gov.bd)
-[![Tested By](https://img.shields.io/badge/SQA%20Engineer-Tanzim%20Rahman-darkgreen?style=for-the-badge&logo=github)](https://github.com/TanzimSQA)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Tanzim%20Rahman%20(TanzimSQA)-blueviolet?style=for-the-badge&logo=googlechrome)](https://tanzimsqa.github.io/)
+[![Tested By](https://img.shields.io/badge/SQA%20Engineer-Tanzim%20Rahman%20%7C%20Koy%20Jabo-darkgreen?style=for-the-badge&logo=github)](https://github.com/TanzimSQA)
 
 A comprehensive, industry-standard Software Quality Assurance (SQA) test documentation suite for the **Bangladesh Railway E-Ticketing System** ([eticket.railway.gov.bd](https://eticket.railway.gov.bd)).
 
