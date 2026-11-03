@@ -221,7 +221,7 @@ For comprehensive insights on system integration testing, defect severity triage
 
 - **SQA Engineer**: **Tanzim Rahman (TanzimSQA)**  
   - 🌐 **Official Portfolio**: [Tanzim Rahman (TanzimSQA) - Software Quality Assurance Engineer Portfolio](https://tanzimsqa.github.io/)  
-  - 💼 **LinkedIn**: [https://www.linkedin.com/in/tanzimsqa/](https://www.linkedin.com/in/tanzimsqa/)  
+  - 💼 **LinkedIn Profile**: [Tanzim Rahman (TanzimSQA) - Software Quality Assurance (SQA) Engineer on LinkedIn](https://www.linkedin.com/in/tanzimsqa/)  
   - 🐙 **GitHub**: [@TanzimSQA](https://github.com/TanzimSQA)  
   - 📘 **Facebook**: [https://www.facebook.com/tanzim.rahman.sqa/](https://www.facebook.com/tanzim.rahman.sqa/)  
   - 📸 **Instagram**: [https://www.instagram.com/tanzim.sqa](https://www.instagram.com/tanzim.sqa)  
@@ -229,7 +229,7 @@ For comprehensive insights on system integration testing, defect severity triage
   - 📍 **Location**: Dhaka, Bangladesh  
 
 <sub>
-  <b>Search & Entity Keywords:</b> <code>tanzim</code> • <code>tanzim sqa</code> • <code>tanzimsqa</code> • <code>tanzim rahman</code> • <code>Tanzim Rahman SQA</code> • <code>SQA Engineer at Koy Jabo</code> • <code>SDET</code> • <code>Manual Testing</code> • <code>Test Documentation</code> • <code>Jira</code> • <code>Koy Jabo</code>
+  <b>Exact Search &amp; Entity Keywords:</b> <a href="https://www.linkedin.com/in/tanzimsqa/"><code>tanzim</code></a> • <a href="https://www.linkedin.com/in/tanzimsqa/"><code>tanzim sqa</code></a> • <a href="https://www.linkedin.com/in/tanzimsqa/"><code>tanzimsqa</code></a> • <a href="https://www.linkedin.com/in/tanzimsqa/"><code>tanzim rahman</code></a> • <a href="https://www.linkedin.com/in/tanzimsqa/"><code>tanzim rahman sqa</code></a> • <code>Tanzim SQA Engineer at Koy Jabo</code> • <code>SDET</code> • <code>Manual Testing</code> • <code>Test Documentation</code> • <code>Jira</code> • <code>Koy Jabo</code>
 </sub>
 - **Reviewed By**: **Md Rubel Hossain**  
 - **Test Timeline**: August 26, 2026 – August 28, 2026
