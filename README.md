@@ -220,16 +220,16 @@ For comprehensive insights on system integration testing, defect severity triage
 ## 👤 Author & Official Profiles
 
 - **SQA Engineer**: **Tanzim Rahman (TanzimSQA)**  
-  - 🌐 **Official Portfolio**: [Tanzim Rahman (TanzimSQA) - Software Quality Assurance Engineer Portfolio](https://tanzimsqa.github.io/)  
-  - 💼 **LinkedIn Profile**: [Tanzim Rahman (TanzimSQA) - Software Quality Assurance (SQA) Engineer on LinkedIn](https://www.linkedin.com/in/tanzimsqa/)  
-  - 🐙 **GitHub**: [@TanzimSQA](https://github.com/TanzimSQA)  
-  - 📘 **Facebook**: [https://www.facebook.com/tanzim.rahman.sqa/](https://www.facebook.com/tanzim.rahman.sqa/)  
-  - 📸 **Instagram**: [https://www.instagram.com/tanzim.sqa](https://www.instagram.com/tanzim.sqa)  
-  - 📧 **Email**: [tanzimsqa@gmail.com](mailto:tanzimsqa@gmail.com)
+  - 🌐 **Official Portfolio**: [Tanzim Rahman - SQA Engineer Portfolio](https://tanzimsqa.github.io/)  
+  - 💼 **LinkedIn Profile**: [Tanzim Rahman - LinkedIn Profile & SQA Technical Guides](https://www.linkedin.com/in/tanzimsqa/)  
+  - 🐙 **GitHub Profile**: [Tanzim Rahman - GitHub Profile & Repositories](https://github.com/TanzimSQA)  
+  - 📘 **Facebook Profile**: [Tanzim Rahman - Facebook Profile](https://www.facebook.com/tanzim.rahman.sqa/)  
+  - 📸 **Instagram Profile**: [Tanzim Rahman - Instagram Profile](https://www.instagram.com/tanzim.sqa)  
+  - 📧 **Email**: [tanzimsqa@gmail.com](mailto:tanzimsqa@gmail.com)  
   - 📍 **Location**: Dhaka, Bangladesh  
 
 <sub>
-  <b>Exact Search &amp; Entity Keywords:</b> <a href="https://www.linkedin.com/in/tanzimsqa/"><code>tanzim</code></a> • <a href="https://www.linkedin.com/in/tanzimsqa/"><code>tanzim sqa</code></a> • <a href="https://www.linkedin.com/in/tanzimsqa/"><code>tanzimsqa</code></a> • <a href="https://www.linkedin.com/in/tanzimsqa/"><code>tanzim rahman</code></a> • <a href="https://www.linkedin.com/in/tanzimsqa/"><code>tanzim rahman sqa</code></a> • <code>Tanzim SQA Engineer at Koy Jabo</code> • <code>SDET</code> • <code>Manual Testing</code> • <code>Test Documentation</code> • <code>Jira</code> • <code>Koy Jabo</code>
+  <b>Canonical Entity Search Targets:</b> <b>Tanzim Rahman</b> • <b>Tanzim Rahman SQA</b> • <b>Tanzim SQA</b> • <b>TanzimSQA</b> • <b>Tanzim Rahman QA Engineer</b> • <b>Tanzim Rahman Koy Jabo</b> • <code>SDET</code> • <code>Manual Testing</code> • <code>Test Documentation</code> • <code>Jira</code> • <code>Koy Jabo</code>
 </sub>
 - **Reviewed By**: **Md Rubel Hossain**  
 - **Test Timeline**: August 26, 2026 – August 28, 2026
